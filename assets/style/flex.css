@@ -2,7 +2,7 @@
 /*cabeçalho*/
 .menu {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     align-items: center;
     flex-wrap: wrap;
     padding: 1em 5em 1em 6.5em;
