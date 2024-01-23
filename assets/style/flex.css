@@ -5,7 +5,7 @@
     justify-content: space-evenly;
     align-items: center;
     flex-wrap: wrap;
-    column-gap: 100px;
+    column-gap: 99px;
 }
 /*cabeçalho*/
 .categorias__lista{
