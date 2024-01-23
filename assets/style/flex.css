@@ -6,7 +6,9 @@
     align-items: center;
     flex-wrap: wrap;
     column-gap: 101px;
+    
 }
+
 /*cabeçalho*/
 .categorias__lista{
     display: flex;
